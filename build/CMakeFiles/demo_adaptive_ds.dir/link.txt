@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/demo_adaptive_ds.dir/link.d CMakeFiles/demo_adaptive_ds.dir/demo/demo_interactive.cpp.o -o demo_adaptive_ds  libadaptive_ds.a

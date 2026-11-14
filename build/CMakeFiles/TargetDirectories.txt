@@ -1,0 +1,7 @@
+/mnt/QZerver/APSS/APP/AgenticFolder/build/CMakeFiles/adaptive_ds.dir
+/mnt/QZerver/APSS/APP/AgenticFolder/build/CMakeFiles/adaptive_ds_tests.dir
+/mnt/QZerver/APSS/APP/AgenticFolder/build/CMakeFiles/bench_adaptive_ds.dir
+/mnt/QZerver/APSS/APP/AgenticFolder/build/CMakeFiles/demo_adaptive_ds.dir
+/mnt/QZerver/APSS/APP/AgenticFolder/build/CMakeFiles/test.dir
+/mnt/QZerver/APSS/APP/AgenticFolder/build/CMakeFiles/edit_cache.dir
+/mnt/QZerver/APSS/APP/AgenticFolder/build/CMakeFiles/rebuild_cache.dir

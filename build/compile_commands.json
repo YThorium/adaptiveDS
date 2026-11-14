@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/mnt/QZerver/APSS/APP/AgenticFolder/build",
+  "command": "/usr/bin/c++  -I/mnt/QZerver/APSS/APP/AgenticFolder/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -o CMakeFiles/adaptive_ds.dir/src/adaptive_ds/Types.cpp.o -c /mnt/QZerver/APSS/APP/AgenticFolder/src/adaptive_ds/Types.cpp",
+  "file": "/mnt/QZerver/APSS/APP/AgenticFolder/src/adaptive_ds/Types.cpp",
+  "output": "CMakeFiles/adaptive_ds.dir/src/adaptive_ds/Types.cpp.o"
+},
+{
+  "directory": "/mnt/QZerver/APSS/APP/AgenticFolder/build",
+  "command": "/usr/bin/c++  -I/mnt/QZerver/APSS/APP/AgenticFolder/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -o CMakeFiles/adaptive_ds.dir/src/adaptive_ds/WorkloadMonitor.cpp.o -c /mnt/QZerver/APSS/APP/AgenticFolder/src/adaptive_ds/WorkloadMonitor.cpp",
+  "file": "/mnt/QZerver/APSS/APP/AgenticFolder/src/adaptive_ds/WorkloadMonitor.cpp",
+  "output": "CMakeFiles/adaptive_ds.dir/src/adaptive_ds/WorkloadMonitor.cpp.o"
+},
+{
+  "directory": "/mnt/QZerver/APSS/APP/AgenticFolder/build",
+  "command": "/usr/bin/c++  -I/mnt/QZerver/APSS/APP/AgenticFolder/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -o CMakeFiles/adaptive_ds.dir/src/adaptive_ds/AdaptationEngine.cpp.o -c /mnt/QZerver/APSS/APP/AgenticFolder/src/adaptive_ds/AdaptationEngine.cpp",
+  "file": "/mnt/QZerver/APSS/APP/AgenticFolder/src/adaptive_ds/AdaptationEngine.cpp",
+  "output": "CMakeFiles/adaptive_ds.dir/src/adaptive_ds/AdaptationEngine.cpp.o"
+},
+{
+  "directory": "/mnt/QZerver/APSS/APP/AgenticFolder/build",
+  "command": "/usr/bin/c++  -I/mnt/QZerver/APSS/APP/AgenticFolder/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -o CMakeFiles/adaptive_ds.dir/src/adaptive_ds/AdaptationHistory.cpp.o -c /mnt/QZerver/APSS/APP/AgenticFolder/src/adaptive_ds/AdaptationHistory.cpp",
+  "file": "/mnt/QZerver/APSS/APP/AgenticFolder/src/adaptive_ds/AdaptationHistory.cpp",
+  "output": "CMakeFiles/adaptive_ds.dir/src/adaptive_ds/AdaptationHistory.cpp.o"
+},
+{
+  "directory": "/mnt/QZerver/APSS/APP/AgenticFolder/build",
+  "command": "/usr/bin/c++  -I/mnt/QZerver/APSS/APP/AgenticFolder/include -I/mnt/QZerver/APSS/APP/AgenticFolder/tests -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -o CMakeFiles/adaptive_ds_tests.dir/tests/test_main.cpp.o -c /mnt/QZerver/APSS/APP/AgenticFolder/tests/test_main.cpp",
+  "file": "/mnt/QZerver/APSS/APP/AgenticFolder/tests/test_main.cpp",
+  "output": "CMakeFiles/adaptive_ds_tests.dir/tests/test_main.cpp.o"
+},
+{
+  "directory": "/mnt/QZerver/APSS/APP/AgenticFolder/build",
+  "command": "/usr/bin/c++  -I/mnt/QZerver/APSS/APP/AgenticFolder/include -I/mnt/QZerver/APSS/APP/AgenticFolder/tests -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -o CMakeFiles/adaptive_ds_tests.dir/tests/test_dynamic_array.cpp.o -c /mnt/QZerver/APSS/APP/AgenticFolder/tests/test_dynamic_array.cpp",
+  "file": "/mnt/QZerver/APSS/APP/AgenticFolder/tests/test_dynamic_array.cpp",
+  "output": "CMakeFiles/adaptive_ds_tests.dir/tests/test_dynamic_array.cpp.o"
+},
+{
+  "directory": "/mnt/QZerver/APSS/APP/AgenticFolder/build",
+  "command": "/usr/bin/c++  -I/mnt/QZerver/APSS/APP/AgenticFolder/include -I/mnt/QZerver/APSS/APP/AgenticFolder/tests -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -o CMakeFiles/adaptive_ds_tests.dir/tests/test_doubly_linked_list.cpp.o -c /mnt/QZerver/APSS/APP/AgenticFolder/tests/test_doubly_linked_list.cpp",
+  "file": "/mnt/QZerver/APSS/APP/AgenticFolder/tests/test_doubly_linked_list.cpp",
+  "output": "CMakeFiles/adaptive_ds_tests.dir/tests/test_doubly_linked_list.cpp.o"
+},
+{
+  "directory": "/mnt/QZerver/APSS/APP/AgenticFolder/build",
+  "command": "/usr/bin/c++  -I/mnt/QZerver/APSS/APP/AgenticFolder/include -I/mnt/QZerver/APSS/APP/AgenticFolder/tests -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -o CMakeFiles/adaptive_ds_tests.dir/tests/test_hash_table.cpp.o -c /mnt/QZerver/APSS/APP/AgenticFolder/tests/test_hash_table.cpp",
+  "file": "/mnt/QZerver/APSS/APP/AgenticFolder/tests/test_hash_table.cpp",
+  "output": "CMakeFiles/adaptive_ds_tests.dir/tests/test_hash_table.cpp.o"
+},
+{
+  "directory": "/mnt/QZerver/APSS/APP/AgenticFolder/build",
+  "command": "/usr/bin/c++  -I/mnt/QZerver/APSS/APP/AgenticFolder/include -I/mnt/QZerver/APSS/APP/AgenticFolder/tests -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -o CMakeFiles/adaptive_ds_tests.dir/tests/test_avl_tree.cpp.o -c /mnt/QZerver/APSS/APP/AgenticFolder/tests/test_avl_tree.cpp",
+  "file": "/mnt/QZerver/APSS/APP/AgenticFolder/tests/test_avl_tree.cpp",
+  "output": "CMakeFiles/adaptive_ds_tests.dir/tests/test_avl_tree.cpp.o"
+},
+{
+  "directory": "/mnt/QZerver/APSS/APP/AgenticFolder/build",
+  "command": "/usr/bin/c++  -I/mnt/QZerver/APSS/APP/AgenticFolder/include -I/mnt/QZerver/APSS/APP/AgenticFolder/tests -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -o CMakeFiles/adaptive_ds_tests.dir/tests/test_workload_monitor.cpp.o -c /mnt/QZerver/APSS/APP/AgenticFolder/tests/test_workload_monitor.cpp",
+  "file": "/mnt/QZerver/APSS/APP/AgenticFolder/tests/test_workload_monitor.cpp",
+  "output": "CMakeFiles/adaptive_ds_tests.dir/tests/test_workload_monitor.cpp.o"
+},
+{
+  "directory": "/mnt/QZerver/APSS/APP/AgenticFolder/build",
+  "command": "/usr/bin/c++  -I/mnt/QZerver/APSS/APP/AgenticFolder/include -I/mnt/QZerver/APSS/APP/AgenticFolder/tests -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -o CMakeFiles/adaptive_ds_tests.dir/tests/test_adaptation_engine.cpp.o -c /mnt/QZerver/APSS/APP/AgenticFolder/tests/test_adaptation_engine.cpp",
+  "file": "/mnt/QZerver/APSS/APP/AgenticFolder/tests/test_adaptation_engine.cpp",
+  "output": "CMakeFiles/adaptive_ds_tests.dir/tests/test_adaptation_engine.cpp.o"
+},
+{
+  "directory": "/mnt/QZerver/APSS/APP/AgenticFolder/build",
+  "command": "/usr/bin/c++  -I/mnt/QZerver/APSS/APP/AgenticFolder/include -I/mnt/QZerver/APSS/APP/AgenticFolder/tests -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -o CMakeFiles/adaptive_ds_tests.dir/tests/test_safe_migration.cpp.o -c /mnt/QZerver/APSS/APP/AgenticFolder/tests/test_safe_migration.cpp",
+  "file": "/mnt/QZerver/APSS/APP/AgenticFolder/tests/test_safe_migration.cpp",
+  "output": "CMakeFiles/adaptive_ds_tests.dir/tests/test_safe_migration.cpp.o"
+},
+{
+  "directory": "/mnt/QZerver/APSS/APP/AgenticFolder/build",
+  "command": "/usr/bin/c++  -I/mnt/QZerver/APSS/APP/AgenticFolder/include -I/mnt/QZerver/APSS/APP/AgenticFolder/tests -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -o CMakeFiles/adaptive_ds_tests.dir/tests/test_adaptive_ds.cpp.o -c /mnt/QZerver/APSS/APP/AgenticFolder/tests/test_adaptive_ds.cpp",
+  "file": "/mnt/QZerver/APSS/APP/AgenticFolder/tests/test_adaptive_ds.cpp",
+  "output": "CMakeFiles/adaptive_ds_tests.dir/tests/test_adaptive_ds.cpp.o"
+},
+{
+  "directory": "/mnt/QZerver/APSS/APP/AgenticFolder/build",
+  "command": "/usr/bin/c++  -I/mnt/QZerver/APSS/APP/AgenticFolder/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -o CMakeFiles/bench_adaptive_ds.dir/benchmarks/bench_adaptive_vs_stl.cpp.o -c /mnt/QZerver/APSS/APP/AgenticFolder/benchmarks/bench_adaptive_vs_stl.cpp",
+  "file": "/mnt/QZerver/APSS/APP/AgenticFolder/benchmarks/bench_adaptive_vs_stl.cpp",
+  "output": "CMakeFiles/bench_adaptive_ds.dir/benchmarks/bench_adaptive_vs_stl.cpp.o"
+},
+{
+  "directory": "/mnt/QZerver/APSS/APP/AgenticFolder/build",
+  "command": "/usr/bin/c++  -I/mnt/QZerver/APSS/APP/AgenticFolder/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -O3 -o CMakeFiles/demo_adaptive_ds.dir/demo/demo_interactive.cpp.o -c /mnt/QZerver/APSS/APP/AgenticFolder/demo/demo_interactive.cpp",
+  "file": "/mnt/QZerver/APSS/APP/AgenticFolder/demo/demo_interactive.cpp",
+  "output": "CMakeFiles/demo_adaptive_ds.dir/demo/demo_interactive.cpp.o"
+}
+]

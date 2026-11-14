@@ -1,0 +1,2 @@
+/usr/bin/ar qc libadaptive_ds.a CMakeFiles/adaptive_ds.dir/src/adaptive_ds/Types.cpp.o CMakeFiles/adaptive_ds.dir/src/adaptive_ds/WorkloadMonitor.cpp.o CMakeFiles/adaptive_ds.dir/src/adaptive_ds/AdaptationEngine.cpp.o CMakeFiles/adaptive_ds.dir/src/adaptive_ds/AdaptationHistory.cpp.o
+/usr/bin/ranlib libadaptive_ds.a

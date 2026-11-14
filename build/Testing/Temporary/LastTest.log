@@ -1,0 +1,55 @@
+Start testing: Nov 14 19:38 IST
+----------------------------------------------------------
+1/1 Testing: AllUnitTests
+1/1 Test: AllUnitTests
+Command: "/mnt/QZerver/APSS/APP/AgenticFolder/build/adaptive_ds_tests"
+Directory: /mnt/QZerver/APSS/APP/AgenticFolder/build
+"AllUnitTests" start time: Nov 14 19:38 IST
+Output:
+----------------------------------------------------------
+
+==========================================
+ Running AdaptiveDS Automated Test Suite 
+==========================================
+
+[RUN     ] DynamicArray.BasicInsertAndSize -> [PASS]
+[RUN     ] DynamicArray.ContainsAndFind -> [PASS]
+[RUN     ] DynamicArray.EraseAndShrink -> [PASS]
+[RUN     ] DynamicArray.RangeQuery -> [PASS]
+[RUN     ] DynamicArray.CopyAndMove -> [PASS]
+[RUN     ] DoublyLinkedList.BasicOperations -> [PASS]
+[RUN     ] DoublyLinkedList.EraseHeadMiddleTail -> [PASS]
+[RUN     ] DoublyLinkedList.RangeAndToVector -> [PASS]
+[RUN     ] DoublyLinkedList.CloneAndDeepCopy -> [PASS]
+[RUN     ] HashTable.BasicInsertAndFind -> [PASS]
+[RUN     ] HashTable.RehashingOnScale -> [PASS]
+[RUN     ] HashTable.EraseOperations -> [PASS]
+[RUN     ] HashTable.RangeQuery -> [PASS]
+[RUN     ] AVLTree.InsertAndBalance -> [PASS]
+[RUN     ] AVLTree.RotationsAndSearch -> [PASS]
+[RUN     ] AVLTree.EraseWithRebalance -> [PASS]
+[RUN     ] AVLTree.RangeQueryOrdered -> [PASS]
+[RUN     ] WorkloadMonitor.SlidingWindowAccounting -> [PASS]
+[RUN     ] WorkloadMonitor.ReadWriteRatio -> [PASS]
+[RUN     ] AdaptationEngine.SmallDatasetPreference -> [PASS]
+[RUN     ] AdaptationEngine.RangeQueryTriggersAVL -> [PASS]
+[RUN     ] AdaptationEngine.LookupQueryTriggersHashTable -> [PASS]
+[RUN     ] AdaptationEngine.CooldownSuppressesAdaptation -> [PASS]
+[RUN     ] SafeMigration.AllPairwiseTransitions -> [PASS]
+[RUN     ] AdaptiveDS.UnifiedInterface -> [PASS]
+[RUN     ] AdaptiveDS.AutomaticAdaptationWorkflow -> [PASS]
+[RUN     ] AdaptiveDS.ExportHistoryCSV -> [PASS]
+
+------------------------------------------
+Test Summary: 27 Passed, 0 Failed, 27 Total
+------------------------------------------
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"AllUnitTests" end time: Nov 14 19:38 IST
+"AllUnitTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 14 19:38 IST

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/mnt/QZerver/APSS/APP/AgenticFolder/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
